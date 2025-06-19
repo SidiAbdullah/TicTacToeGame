@@ -19,7 +19,7 @@ A classic Tic Tac Toe game built with C# Windows Forms for two players.
 ---
 
 🖼️ **Screenshot**  
-<img width="519" alt="Tic Tac Toe Screenshot" src="https://github.com/user-attachments/assets/d6dc6c1b-e981-4c90-be5b-b2cb025f87a0" />
+<img width="519" alt="image" src="https://github.com/user-attachments/assets/53f978bb-ed4c-4077-8002-f7022cb22bd8" />
 
 ---
 
