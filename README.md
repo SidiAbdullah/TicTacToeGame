@@ -31,4 +31,4 @@ A classic Tic Tac Toe game built with C# Windows Forms for two players.
 ---
 
 🧠 **Author**  
-[Sidi Abdullah Lemrabott](https://github.com/SidiAbdullah)
+[Sidi Abdullah](https://github.com/SidiAbdullah)
